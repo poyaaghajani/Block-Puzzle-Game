@@ -1,16 +1,10 @@
-# block_puzzle_game
+<h1 align="center" id="title">Block Puzzle Game</h1>
 
-A new Flutter project.
+<p id="description">A nostalgia and funny game</p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<h2>🦖 Videos</h3> 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/poyaaghajani/Block-Puzzle-Game/assets/107408431/90329d69-74ac-4ce0-a8c3-dc42ccedb0e8
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
